@@ -1,3 +1,5 @@
+var msg = 'Hello World';
+console.log(msg);
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
